@@ -31,7 +31,7 @@
 - 品牌统一： 亚马逊将旗下所有面向开发者的AI工具统一整合到 Amazon Q 品牌下。
 - 功能继承：
   - IDE中的 CodeWhisperer 成为 Amazon Q 的核心代码生成功能。
-  - 命令行中的 CodeWhisperer for Command Line (源于“Kiro”/Fig) 也被并入 Amazon Q，成为其在终端中的形态。
+  - 命令行中的 CodeWhisperer for Command Line 也被并入 Amazon Q，成为其在终端中的形态。
 - 最终形态： 亚马逊最终形成了一个统一的AI助手 Amazon Q
   Developer，它既能存在于IDE中帮助编写应用代码，也能存在于命令行中帮助执行系统管理和脚本编写任务。
 
